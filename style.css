@@ -57,7 +57,3 @@ a:hover #img3, a:focus #img3  {
 a:hover #img4, a:focus #img4  {
 	transform: scale(2.5) rotate(5deg);
 }
-.container {
-  width: 600px;
-  height: 300px;
-  background-image: url('1.png');
