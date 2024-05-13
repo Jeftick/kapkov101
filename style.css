@@ -57,3 +57,9 @@ a:hover #img3, a:focus #img3  {
 a:hover #img4, a:focus #img4  {
 	transform: scale(2.5) rotate(5deg);
 }
+#logout
+{
+float:right;
+margin-right:20px;
+height:5px;
+}
