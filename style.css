@@ -60,3 +60,8 @@ a:hover #img4, a:focus #img4  {
 .red-text-shadow {
   text-shadow: red 0 -2px;
 }
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: #f0f0f0;
+  box-shadow: 5px 5px 5px #888888;
