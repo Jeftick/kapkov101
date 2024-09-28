@@ -1,8 +1,7 @@
 body {
-	font-family: Tahoma, Verdana, Geneva, sans-serif;
-	margin: 6em 6em;
-	font-weight: bold;
-	background: orange
+  background: linear-gradient(to right, #ff8c00, #ff4e50); /* Замените цвета на ваши */
+  background-size: cover; /* Покрывает весь экран */
+  background-attachment: fixed; /* Фон остается неподвижным при прокрутке */
 }
 ul {
 	list-style-type: none;
