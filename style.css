@@ -82,4 +82,4 @@ a:hover #img4, a:focus #img4  {
             font-weight: bold; /* Жирный текст */
             animation: rainbow 3s infinite; /* Анимация */
             text-align: center; /* Выравнивание по центру */
-            margin-top: 1%; /* Отступ сверху */
+            margin-top: 0%; /* Отступ сверху */
